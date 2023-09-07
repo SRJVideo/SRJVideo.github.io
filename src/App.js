@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Ciel from './Images/logo-fonce'
 import {Container,Col, Row} from "react-bootstrap";
